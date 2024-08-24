@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SqliteOnWebDemo.iml" filepath="$PROJECT_DIR$/SqliteOnWebDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sqliteonweb/sqliteonweb.iml" filepath="$PROJECT_DIR$/sqliteonweb/sqliteonweb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sqliteonweb-no-op/sqliteonweb-no-op.iml" filepath="$PROJECT_DIR$/sqliteonweb-no-op/sqliteonweb-no-op.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SQLiteOnWeb-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/SQLiteOnWeb-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLiteOnWeb-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLiteOnWeb-Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLiteOnWeb-Android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLiteOnWeb-Android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLiteOnWeb-Android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLiteOnWeb-Android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLiteOnWeb-Android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLiteOnWeb-Android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqliteonweb/SQLiteOnWeb-Android.sqliteonweb.iml" filepath="$PROJECT_DIR$/.idea/modules/sqliteonweb/SQLiteOnWeb-Android.sqliteonweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqliteonweb-no-op/SQLiteOnWeb-Android.sqliteonweb-no-op.iml" filepath="$PROJECT_DIR$/.idea/modules/sqliteonweb-no-op/SQLiteOnWeb-Android.sqliteonweb-no-op.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqliteonweb-no-op/SQLiteOnWeb-Android.sqliteonweb-no-op.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sqliteonweb-no-op/SQLiteOnWeb-Android.sqliteonweb-no-op.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqliteonweb-no-op/SQLiteOnWeb-Android.sqliteonweb-no-op.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sqliteonweb-no-op/SQLiteOnWeb-Android.sqliteonweb-no-op.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqliteonweb-no-op/SQLiteOnWeb-Android.sqliteonweb-no-op.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sqliteonweb-no-op/SQLiteOnWeb-Android.sqliteonweb-no-op.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqliteonweb/SQLiteOnWeb-Android.sqliteonweb.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sqliteonweb/SQLiteOnWeb-Android.sqliteonweb.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqliteonweb/SQLiteOnWeb-Android.sqliteonweb.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sqliteonweb/SQLiteOnWeb-Android.sqliteonweb.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqliteonweb/SQLiteOnWeb-Android.sqliteonweb.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sqliteonweb/SQLiteOnWeb-Android.sqliteonweb.unitTest.iml" />
     </modules>
   </component>
 </project>
