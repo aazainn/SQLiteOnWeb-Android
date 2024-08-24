@@ -2,8 +2,8 @@ apply plugin: 'com.android.library'
 
 android {
     namespace 'io.github.skyhacker2.sqliteonweb_no_op'
-    compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    compileSdkVersion 31
+    buildToolsVersion "30.0.3"
 
     defaultConfig {
         minSdkVersion 9

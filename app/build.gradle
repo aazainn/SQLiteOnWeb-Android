@@ -2,8 +2,8 @@ apply plugin: 'com.android.application'
 
 android {
     namespace 'io.github.skyhacker2.sqliteonwebdemo'
-    compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    compileSdkVersion 31
+    buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "io.github.skyhacker2.sqliteonwebdemo"
