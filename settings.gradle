@@ -2,7 +2,7 @@ pluginManagement {
     repositories {
         google()//maven { url 'https://maven.aliyun.com/repository/google' } // google()
         mavenCentral()//maven { url 'https://maven.aliyun.com/repository/public' } // mavenCentral()
-        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' } // gradlePluginPortal()
+        gradlePluginPortal()//maven { url 'https://maven.aliyun.com/repository/gradle-plugin' } // gradlePluginPortal()
     }
 }
 dependencyResolutionManagement {
